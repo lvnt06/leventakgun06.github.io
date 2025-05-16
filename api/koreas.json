@@ -1307,7 +1307,7 @@
       "genreIds": [15, 9, 3],
       "contentRating": "15+",
       "episode": "Bölüm: 12",
-      "playerAbout1": "",
+      "playerAbout1": "https://mydramalist.com/people/1500-yeo-jin-goo",
       "playerAbout2": "https://mydramalist.com/people/1267-kim-kang-woo",
       "playerAbout3": "https://mydramalist.com/people/9347-gong-seung-yeon"
     },
@@ -3341,7 +3341,7 @@
       "contentRating": "15+",
       "episode": "Bölüm: 16",
       "playerAbout1": "",
-      "playerAbout2": "",
+      "playerAbout2": "https://mydramalist.com/people/1500-yeo-jin-goo",
       "playerAbout3": ""
     },
     {
@@ -5354,7 +5354,7 @@
       "genreIds": [4, 3, 7],
       "contentRating": "15+",
       "episode": "Bölüm: 40",
-      "playerAbout1": "",
+      "playerAbout1": "https://mydramalist.com/people/1500-yeo-jin-goo",
       "playerAbout2": "https://mydramalist.com/people/5313-bang-min-ah",
       "playerAbout3": "https://mydramalist.com/people/2384-hong-jong-hyun"
     },
@@ -6039,7 +6039,7 @@
       "contentRating": "15+",
       "episode": "Bölüm: 12",
       "playerAbout1": "",
-      "playerAbout2": "",
+      "playerAbout2": "https://mydramalist.com/people/1500-yeo-jin-goo",
       "playerAbout3": ""
     },
     {
@@ -6665,7 +6665,7 @@
       "genreIds": [5, 3, 18],
       "contentRating": "15+",
       "episode": "Bölüm: 40",
-      "playerAbout1": "",
+      "playerAbout1": "https://mydramalist.com/people/1500-yeo-jin-goo",
       "playerAbout2": "https://mydramalist.com/people/552-lee-yun-hee",
       "playerAbout3": "https://mydramalist.com/people/6555-ahn-jae-hyun"
     },
@@ -7957,7 +7957,7 @@
       "genreIds": [8, 3, 16],
       "contentRating": "15+",
       "episode": "Bölüm: 16",
-      "playerAbout1": "",
+      "playerAbout1": "https://mydramalist.com/people/1500-yeo-jin-goo",
       "playerAbout2": "https://mydramalist.com/people/4047-lee-se-young",
       "playerAbout3": "https://mydramalist.com/people/814-kim-sang-kyung"
     },
@@ -8718,7 +8718,7 @@
       "contentRating": "15+",
       "episode": "Bölüm: 24",
       "playerAbout1": "",
-      "playerAbout2": "",
+      "playerAbout2": "https://mydramalist.com/people/1500-yeo-jin-goo",
       "playerAbout3": ""
     },
     {
@@ -10296,7 +10296,7 @@
       "episode": "Bölüm: 16",
       "playerAbout1": "https://mydramalist.com/people/1325-jo-yeo-jung",
       "playerAbout2": "",
-      "playerAbout3": ""
+      "playerAbout3": "https://mydramalist.com/people/22782-yeonwoo"
     },
     {
       "id": 543,
@@ -10656,7 +10656,7 @@
       "contentRating": "15+",
       "episode": "Bölüm: 16",
       "playerAbout1": "https://mydramalist.com/people/287-shin-ha-kyun",
-      "playerAbout2": "",
+      "playerAbout2": "https://mydramalist.com/people/1500-yeo-jin-goo",
       "playerAbout3": "https://mydramalist.com/people/4039-choi-dae-hoon"
     },
     {
@@ -16528,8 +16528,8 @@
             "playerAbout1": "https://mydramalist.com/people/22987-baek-jong-won",
             "playerAbout2": "https://mydramalist.com/people/144783-ah-seong-jae",
             "playerAbout3": "https://mydramalist.com/people/19088-choi-hyun-seok"
-        },
-        {
+    },
+    {
       "id": 871,
           "koreasName": "The Tale of Lady Ok",
           "koreasImage": "https://i.mydramalist.com/YYqkOd_4f.jpg",
