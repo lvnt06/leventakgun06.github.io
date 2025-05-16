@@ -663,7 +663,7 @@
       "episode": "Süre: 2s 16d",
       "playerAbout1": "",
       "playerAbout2": "",
-      "playerAbout3": ""
+      "playerAbout3": "https://mydramalist.com/people/659-kim-yoon-seok"
     },
     {
       "id": 36,
@@ -719,7 +719,7 @@
       "contentRating": "12+",
       "episode": "Süre: 1s 52d",
       "playerAbout1": "",
-      "playerAbout2": "",
+      "playerAbout2": "https://mydramalist.com/people/2502-lee-joon",
       "playerAbout3": "https://mydramalist.com/people/7310-im-ji-yeon"
     },
     {
@@ -1137,7 +1137,7 @@
       "contentRating": "12+",
       "episode": "Süre: 2s 5d",
       "playerAbout1": "",
-      "playerAbout2": "",
+      "playerAbout2": "https://mydramalist.com/people/1666-kim-mi-sook",
       "playerAbout3": "https://mydramalist.com/people/2587-park-hee-soon"
     },
     {
@@ -1294,10 +1294,10 @@
     },
     {
       "id": 69,
-      "koreasName": "The Accidental Detective",
+      "koreasName": "The Accidental Detective 1",
       "koreasImage": "https://i.mydramalist.com/ovVXYf.jpg",
       "rating": 8,
-      "description": "2015 yılı yapımı bu filmde: Suç hayranı olan Dae man, ülkenin en kötü suçluları hakkında blog yazıları yazan biridir. Seneler boyunca dedektif olma hayalleri kurmuş ancak her girişimi başarısızlıkla sonuçlanmıştır. Sonunda çizgi roman dükkanı açmıştır ve günün birinde en yakın arkadaşı dedektif Jun su cinayetten dolayı suçlanır. Dae Man arkadaşının masum olduğuna inanır ve bunu kanıtlamak için elinden gelen her şeyi yapmaya başlar. Aynı zamanda kendini kanıtlamak için bir fırsatta olabilir.",
+      "description": "2015 yılı yapımı bu filmde: Suç hayranı olan Dae Man, ülkenin en kötü suçluları hakkında blog yazıları yazan biridir. Seneler boyunca dedektif olma hayalleri kurmuş ancak her girişimi başarısızlıkla sonuçlanmıştır. Sonunda çizgi roman dükkanı açmıştır ve günün birinde en yakın arkadaşı dedektif Joon Soo cinayetten dolayı suçlanır. Dae Man arkadaşının masum olduğuna inanır ve bunu kanıtlamak için elinden gelen her şeyi yapmaya başlar. Aynı zamanda kendini kanıtlamak için bir fırsatta olabilir.",
       "playerName1": "Kwon Sang Woo\n(Kang Dae Man)",
       "playerName2": "Sung Dong Il\n(Noh Tae Soo)",
       "playerName3": "Seo Young Hee\n(Lee Mi Ok)",
@@ -1307,7 +1307,7 @@
       "genreIds": [15, 4, 22],
       "contentRating": "12+",
       "episode": "Süre: 2s",
-      "playerAbout1": "",
+      "playerAbout1": "https://mydramalist.com/people/851-kwon-sang-woo",
       "playerAbout2": "https://mydramalist.com/people/1113-sung-dong-il",
       "playerAbout3": ""
     },
@@ -1404,7 +1404,7 @@
       "episode": "Süre: 1s 47d",
       "playerAbout1": "",
       "playerAbout2": "",
-      "playerAbout3": ""
+      "playerAbout3": "https://mydramalist.com/people/542-jung-gyu-woon"
     },
     {
       "id": 75,
@@ -1517,7 +1517,7 @@
       "contentRating": "12+",
       "episode": "Süre: 2s 20d",
       "playerAbout1": "https://mydramalist.com/people/324-lee-byung-hun",
-      "playerAbout2": "",
+      "playerAbout2": "https://mydramalist.com/people/659-kim-yoon-seok",
       "playerAbout3": "https://mydramalist.com/people/342-park-hae-il"
     },
     {
@@ -1556,7 +1556,7 @@
       "episode": "Süre: 1s 48d",
       "playerAbout1": "https://mydramalist.com/people/1267-kim-kang-woo",
       "playerAbout2": "https://mydramalist.com/people/234-kim-bum",
-      "playerAbout3": ""
+      "playerAbout3": "https://mydramalist.com/people/843-lee-joon-hyuk"
     },
     {
       "id": 83,
@@ -1669,7 +1669,7 @@
       "contentRating": "12+",
       "episode": "Süre: 1s 52d",
       "playerAbout1": "https://mydramalist.com/people/1266-sol-kyung-gu",
-      "playerAbout2": "",
+      "playerAbout2": "https://mydramalist.com/people/1500-yeo-jin-goo",
       "playerAbout3": ""
     },
     {
@@ -2162,7 +2162,7 @@
       "genreIds": [5, 7, 3],
       "contentRating": "12+",
       "episode": "Süre: 1s 51d",
-      "playerAbout1": "",
+      "playerAbout1": "https://mydramalist.com/people/659-kim-yoon-seok",
       "playerAbout2": "https://mydramalist.com/people/7710-byun-yo-han",
       "playerAbout3": ""
     },
@@ -2334,7 +2334,7 @@
       "contentRating": "12+",
       "episode": "Süre: 2s",
       "playerAbout1": "https://mydramalist.com/people/488-cha-seung-won",
-      "playerAbout2": "",
+      "playerAbout2": "https://mydramalist.com/people/851-kwon-sang-woo",
       "playerAbout3": ""
     },
     {
@@ -3021,7 +3021,7 @@
           "playerAbout2": "https://mydramalist.com/people/2671-kim-mu-yeol",
           "playerAbout3": "https://mydramalist.com/people/19984-kim-sung-gyu"
       },
-          {
+      {
       "id": 160,
           "koreasName": "The Roundup: No Way Out",
           "koreasImage": "https://i.mydramalist.com/Z858r7_4f.jpg",
@@ -3040,7 +3040,7 @@
           "playerAbout2": "https://mydramalist.com/people/843-lee-joon-hyuk",
           "playerAbout3": "https://mydramalist.com/people/1045-aoki-munetaka"
       },
-    {
+      {
       "id": 161,
           "koreasName": "The Accidental Detective 2: In Action",
           "koreasImage": "https://i.mydramalist.com/4wYPkf.jpg",
@@ -3077,6 +3077,25 @@
           "playerAbout1": "https://mydramalist.com/people/9534-ryu-joon-yeol",
           "playerAbout2": "https://mydramalist.com/people/1510-shin-hyun-bin",
           "playerAbout3": "https://mydramalist.com/people/19118-shin-min-jae"
+      },
+      {
+      "id": 163,
+          "koreasName": "Hijack 1971",
+          "koreasImage": "https://i.mydramalist.com/XdE14d_4f.jpg",
+          "rating": 8.5,
+          "description": "2024 yılı yapımı bu filmde: 1971'de, eski Kore Hava Kuvvetleri savaş pilotu Jeon Tae In, ticari bir havayolunda pilot olarak çalışmaktadır. Kim Yong Dae de dahil olmak üzere yolcular ve kaptan Kim Gyu Shik ve uçuş görevlisi Lee Ok Sun da dahil olmak üzere mürettebat üyeleriyle birlikte kaçırılan bir uçağın içinde bir krizle karşı karşıya kalır.",
+          "playerName1": "Ha Jung Woo\n(Jeon Tae In)",
+          "playerName2": "Yeo Jin Goo\n(Kim Yong Dae)",
+          "playerName3": "Sung Dong Il\n(Kim Gyu Shik)",
+          "playerImage1": "https://i.mydramalist.com/xw56y_5c.jpg",
+          "playerImage2": "https://i.mydramalist.com/WKkL3_5c.jpg",
+          "playerImage3": "https://i.mydramalist.com/XOo6p_5c.jpg",
+          "genreIds": [1, 2, 11],
+          "contentRating": "15+",
+          "episode": "Süre: 1s 40d",
+          "playerAbout1": "https://mydramalist.com/people/593-ha-jung-woo",
+          "playerAbout2": "https://mydramalist.com/people/1500-yeo-jin-goo",
+          "playerAbout3": "https://mydramalist.com/people/1113-sung-dong-il"
       }
   ]
 }
